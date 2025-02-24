@@ -1,0 +1,39 @@
+header{
+    background-color:rgba(106, 101, 101, 0.778);
+}
+
+main{
+    background-color:rgba(106, 101, 101, 0.778); 
+    font-size: 20px;
+} 
+
+nav{
+    background-color:rgba(162, 115, 176, 0.474);
+    
+    }
+    
+footer{
+        background-color:rgba(106, 101, 101, 0.778);
+    }
+   
+    
+
+body{
+    font-family:"Comic Sans";
+    font-size:17px;
+  }
+
+
+nav{
+    width:250px;
+}
+ul{
+    display:inline-block;
+}
+h1{
+    color:rgb(158, 81, 209);
+    text-align:center;
+}
+p{
+    line-height:120%;
+}
